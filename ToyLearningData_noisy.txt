@@ -19,3 +19,6 @@ b a a
 c c a
 b a b
 a a b
+a c b
+c b a
+c b b
