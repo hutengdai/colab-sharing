@@ -1,7 +1,8 @@
-a b
-a b a
-b a b
-a a
-a c
-c a
-c c
+C V C
+C V V
+V C V
+V V C
+V V V
+C C V
+C C C
+V C C
